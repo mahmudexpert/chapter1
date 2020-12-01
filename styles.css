@@ -1,0 +1,14 @@
+/* Principles /* Navigation Header */
+#headernav, #footernav {
+ width: 300px;
+ margin-left: auto;
+ margin-right: auto;
+ border: solid 1px black;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ text-align: center;
+ font-family: arial, sans-serif;of Web Design 6th ed. */
+/* style sheet for linking activity in Chapter 9 */
+body {font-family: georgia, serif;}
+li {line-height: 125%;}
+p {margin: 0px 20px 0px 30px}
